@@ -1,1 +1,3 @@
-SWUST is very beautiful
+hello world this is map reduce example
+hello world
+I am a new Master's International student 
